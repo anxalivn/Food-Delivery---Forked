@@ -1,0 +1,8 @@
+*.sqlit3
+*.sqlite3
+.~c9*
+env.py
+env.py
+*.png
+static/
+media/
